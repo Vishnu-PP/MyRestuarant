@@ -19,14 +19,18 @@ font-family: 'Scheherazade New', serif; */
     
 }
 @media (max-width: 768px){
+    .comm{
+        width: 80%;
+    }
     .cards{
-    
-        
-    
     display:block;
-    margin-left: 0px;
+    margin-left: -45px;
     /* align-items: center;
     justify-content: center; */
+}
+
+.card{
+    width: 5rem;
 }
 }
 
